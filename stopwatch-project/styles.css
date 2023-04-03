@@ -1,0 +1,9 @@
+.btnClick {
+  display: flex;
+  align-items: center;
+  background: pink;
+  padding: 1rem;
+  border: none;
+  width: 6rem;
+  border-radius: 1rem;
+}
